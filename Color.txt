@@ -1,4 +1,4 @@
-The Colors
+The Colors and Matrix
 
 Yellow
 Green
@@ -7,4 +7,4 @@ Black
 Purple
 Pink
 Blue
-These are the colors
+These are the colors of Matrix
