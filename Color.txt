@@ -5,6 +5,7 @@ Green
 Red
 Black
 Purple
+Matrix
 Pink
 Blue
 These are the colors of Matrix
