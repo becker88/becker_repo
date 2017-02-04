@@ -1,4 +1,4 @@
-The Colors and Matrix
+The Colors Matrix and Saikat
 
 Yellow
 Green
@@ -6,6 +6,8 @@ Red
 Black
 Purple
 Matrix
+Saikat
 Pink
 Blue
-These are the colors of Matrix
+These are the colors of Matrix 
+Saikat
